@@ -4,12 +4,16 @@
 
 
 源码地址：[python爬取某网站上的图片2_梦里逆天的博客-CSDN博客](https://blog.csdn.net/username666/article/details/125799723?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-4-125799723-blog-113725731.pc_relevant_multi_platform_whitelistv3&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~Rate-4-125799723-blog-113725731.pc_relevant_multi_platform_whitelistv3&utm_relevant_index=6)
+
 源码作者：[梦里逆天的博客_CSDN博客-学习笔记,PHP,Python领域博主](https://blog.csdn.net/username666)
+
 改进升级：[图欧学习资源库](https://tuostudy.com/)
+
 新增功能：以相册名+固定位数为2的数字作为图片文件名，可以支持输入最大页数，实现多页爬取，修复了部分BUG
+
 实现过程：增加了自动创建images文件夹的功能，用以保存图片；增加了一个for循环，把整个爬取过程定义为一个download()方法，嵌入到for循环，这样子就可以实现循环爬取了
 
-爬取对象：https://www.jdlingyu.com/tag/%e5%b0%91%e5%a5%b3（tag为少女）
+爬取对象：https://www.jdlingyu.com/tag/%e5%b0%91%e5%a5%b3    （tag为少女）
 ![image](https://user-images.githubusercontent.com/88499526/191899666-dcf09aa6-9392-46b2-ac14-5da01f14a0dd.png)
 
 
